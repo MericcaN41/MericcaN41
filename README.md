@@ -1,5 +1,7 @@
 ### Selam! 👋
 
+![stats](https://github-readme-stats.vercel.app/api?username=mericcan41&theme=react&show_icons=true)
+
 <img src="https://cdn.discordapp.com/attachments/760843216584704030/811963008607322172/discord.png" width="30px"> MericcaN41#0652 <br>
 <img src="https://cdn.discordapp.com/attachments/760843216584704030/811965572027383809/Steam-Logo.png" width="30px"> [Meric](https://steamcommunity.com/profiles/76561198141584762) <br>
 <img src="https://cdn.discordapp.com/attachments/760843216584704030/811966063314468885/javascript.png" width="40px">
